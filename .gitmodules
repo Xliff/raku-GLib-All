@@ -1,0 +1,96 @@
+[submodule "GLib"]
+	path = GLib
+	url = https://github.com/Xliff/p6-GLib
+[submodule "GIO"]
+	path = GIO
+	url = https://github.com/Xliff/p6-GIO
+[submodule "JSON-GLib"]
+	path = JSON-GLib
+	url = https://github.com/Xliff/p6-JSON-GLib
+[submodule "ICal-GLib"]
+	path = ICal-GLib
+	url = https://github.com/Xliff/p6-ICal-GLib
+[submodule "GIR"]
+	path = GIR
+	url = https://github.com/Xliff/p6-GIR
+[submodule "Secret"]
+	path = Secret
+	url = https://github.com/Xliff/p6-Secret
+[submodule "SOUP"]
+	path = SOUP
+	url = https://github.com/Xliff/p6-SOUP
+[submodule "GSSDP"]
+	path = GSSDP
+	url = https://github.com/Xliff/p6-GSSDP
+[submodule "GUPnP"]
+	path = GUPnP
+	url = https://github.com/Xliff/p6-GUPnP
+[submodule "Pango"]
+	path = Pango
+	url = https://github.com/Xliff/p6-Pango
+[submodule "GDK"]
+	path = GDK
+	url = https://github.com/Xliff/p6-GDK
+[submodule "GtkPlus"]
+	path = GtkPlus
+	url = https://github.com/Xliff/p6-GtkPlus
+[submodule "GtkBuilder"]
+	path = GtkBuilder
+	url = https://github.com/Xliff/p6-GtkBuilder
+[submodule "Sourceview"]
+	path = Sourceview
+	url = https://github.com/Xliff/p6-Sourceview
+[submodule "WebkitGTK"]
+	path = WebkitGTK
+	url = https://github.com/Xliff/p6-WebkitGTK
+[submodule "AMTK"]
+	path = AMTK
+	url = https://github.com/Xliff/p6-AMTK
+[submodule "ATK"]
+	path = ATK
+	url = https://github.com/Xliff/p6-ATK
+[submodule "TEPL"]
+	path = TEPL
+	url = https://github.com/Xliff/p6-TEPL
+[submodule "GooCanvas"]
+	path = GooCanvas
+	url = https://github.com/Xliff/p6-GooCanvas
+[submodule "Slope"]
+	path = Slope
+	url = https://github.com/Xliff/p6-Slope
+[submodule "WNCK"]
+	path = WNCK
+	url = https://github.com/Xliff/p6-WNCK
+[submodule "COGL"]
+	path = COGL
+	url = https://github.com/Xliff/p6-COGL
+[submodule "Clutter"]
+	path = Clutter
+	url = https://github.com/Xliff/p6-Clutter
+[submodule "GtkClutter"]
+	path = GtkClutter
+	url = https://github.com/Xliff/p6-GtkClutter
+[submodule "Champlain"]
+	path = Champlain
+	url = https://github.com/Xliff/p6-Champlain
+[submodule "GStreamer"]
+	path = GStreamer
+	url = https://github.com/Xliff/p6-GStreamer
+[submodule "RSVG"]
+	path = RSVG
+	url = https://github.com/Xliff/p6-RSVG
+[submodule "CardDeck"]
+	path = CardDeck
+	url = https://github.com/Xliff/p6-CardDeck
+[submodule "VTE"]
+	path = VTE
+	url = https://github.com/Xliff/p6-VTE
+[submodule "Handy"]
+	path = Handy
+	url = https://github.com/Xliff/p6-Handy
+[submodule "GEGL"]
+	path = GEGL
+	url = https://github.com/Xliff/p6-GEGL
+[submodule "GRSS"]
+	path = GRSS
+	url = https://github.com/Xliff/raku-GRSS
